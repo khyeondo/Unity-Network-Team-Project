@@ -1,0 +1,2 @@
+D:\UnityProject\Unity-Network-Project\Unity Network Team Project\obj\Debug\PunDemos.DemoSlotcarEditor.csprojAssemblyReference.cache
+D:\UnityProject\Unity-Network-Project\Unity Network Team Project\obj\Debug\PunDemos.DemoSlotcarEditor.csproj.CoreCompileInputs.cache

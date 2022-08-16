@@ -1,0 +1,2 @@
+D:\UnityProject\Unity-Network-Project\Unity Network Team Project\obj\Debug\PunDemos.DemoHubEditor.csprojAssemblyReference.cache
+D:\UnityProject\Unity-Network-Project\Unity Network Team Project\obj\Debug\PunDemos.DemoHubEditor.csproj.CoreCompileInputs.cache

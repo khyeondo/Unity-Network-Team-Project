@@ -1,0 +1,2 @@
+D:\UnityProject\Unity-Network-Project\Unity Network Team Project\obj\Debug\PhotonUnityNetworking.csprojAssemblyReference.cache
+D:\UnityProject\Unity-Network-Project\Unity Network Team Project\obj\Debug\PhotonUnityNetworking.csproj.CoreCompileInputs.cache
